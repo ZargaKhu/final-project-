@@ -1,0 +1,39 @@
+html {
+   background-color: Black;
+}
+
+h1 {
+   text-align: center;
+   color: white;
+}
+
+h2 {
+   text-align: center;
+   color: white;
+}
+
+h3 {
+   text-align: center;
+   color: white;
+}
+
+p {
+   text-align: center;
+   color: white;
+}
+
+ul:hover{
+   background-color: red;
+   color: white
+ }
+
+ ul {
+   text-align: center;
+ }
+
+ h4 {
+   color: white
+ }
+body{
+   background-image: ;
+}
